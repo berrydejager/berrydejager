@@ -4,7 +4,7 @@ Berry is a creative, sociable go-getter; one of the old-school types who's been 
 
 It's a great quality that Berry can inspire people well and speaks everyone's language. Berry is an all-rounder and gets a lot of energy from sustainable innovation/breakthrough technologies.
 
-During the day his passiion is coding for [RawWorks.nl](https://www.rawworks.nl), at night he is an enthusiastic world improver with a focus on open-source and environmental friendly projects.
+During the day his passion is coding for [RawWorks.nl](https://www.rawworks.nl), at night he is an enthusiastic world improver with a focus on open-source and environmental friendly projects.
 
 Actively involved in the following initiatives;
 
